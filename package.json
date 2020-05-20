@@ -4,15 +4,22 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build"
+    "build": "vue-cli-service build",
+    "prepare-public": "node prepare-public.js",
+    "prepare": "npm run prepare-public"
   },
   "dependencies": {
     "core-js": "^3.6.4",
+    "spectrum-ui-vue": "^0.1.5",
     "vue": "^2.6.11"
   },
   "devDependencies": {
+    "@adobe/spectrum-css-workflow-icons": "^1.0.0",
+    "@spectrum-css/spectrum-css": "^3.0.0-alpha.7",
     "@vue/cli-plugin-babel": "~4.3.0",
     "@vue/cli-service": "~4.3.0",
+    "loadicons": "^1.0.0",
+    "shelljs": "^0.8.4",
     "vue-template-compiler": "^2.6.11"
   }
 }
