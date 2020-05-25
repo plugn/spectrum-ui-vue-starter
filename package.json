@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "core-js": "^3.6.4",
-    "spectrum-ui-vue": "^0.1.5",
+    "spectrum-ui-vue": "latest",
     "vue": "^2.6.11"
   },
   "devDependencies": {
