@@ -19,7 +19,7 @@
     "@vue/cli-plugin-babel": "~4.3.0",
     "@vue/cli-service": "~4.3.0",
     "loadicons": "^1.0.0",
-    "shelljs": "^0.8.4",
+    "shelljs": "^0.8.5",
     "vue-template-compiler": "^2.6.11"
   }
 }
