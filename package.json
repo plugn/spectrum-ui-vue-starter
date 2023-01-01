@@ -16,8 +16,8 @@
   "devDependencies": {
     "@adobe/spectrum-css-workflow-icons": "^1.0.0",
     "@spectrum-css/spectrum-css": "^3.0.0-alpha.7",
-    "@vue/cli-plugin-babel": "~4.3.0",
-    "@vue/cli-service": "~4.3.0",
+    "@vue/cli-plugin-babel": "~5.0.8",
+    "@vue/cli-service": "~5.0.8",
     "loadicons": "^1.0.0",
     "shelljs": "^0.8.4",
     "vue-template-compiler": "^2.6.11"
